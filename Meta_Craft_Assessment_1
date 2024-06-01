@@ -45,6 +45,6 @@ mintNFT("Rudeus", "Black", "18", "Male");
 mintNFT("Erin", "Green", "19", "Male");
 mintNFT("Mikasa", "Brown", "18", "Female");
 // call your functions below this line
-listNFTs(); // Prints all NFTs
+listNFTs();
 
 console.log("Total Supply: " + getTotalSupply());
